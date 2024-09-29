@@ -1,4 +1,0 @@
-function calculateSum(arr){
-	//Implementation goes here
-	return result;
-}

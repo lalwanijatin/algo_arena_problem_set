@@ -1,9 +1,0 @@
-##USER_CODE_GOES_HERE##
-
-const input = require('fs').readFileSync('/dev/problems/Calculate Sum/input/##INPUT_FILE_NAME##.txt', 'utf-8').split('\n').join(' ').split(' ')
-
-const arr_size = parseInt(input.shift());
-const arr = input.splice(0,arr_size).map(Number);
-
-
-console.log(calculateSum(arr));

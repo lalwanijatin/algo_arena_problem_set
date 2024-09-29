@@ -1,3 +1,0 @@
-private static int calculateSum(List<Integer> arr){
-	//Implementation goes here
-}
